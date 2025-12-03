@@ -1,0 +1,4 @@
+Logging started at 2025-12-03T08:29:01.922580700Z
+[authlib-injector] [INFO] Version: 1.2.6
+[authlib-injector] [INFO] Authentication server: http://localhost:56314
+[authlib-injector] [WARNING] You are using HTTP protocol, which is INSECURE! Please switch to HTTPS if possible.
